@@ -1,0 +1,1 @@
+SELECT * FROM currency CROSS JOIN exchange_rate
